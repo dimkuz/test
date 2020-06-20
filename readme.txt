@@ -2,4 +2,4 @@ first line
 second line
 -------
 hello github
-master
+master + branch2
